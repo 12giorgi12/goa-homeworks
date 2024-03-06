@@ -1,23 +1,23 @@
-for i in range(0,15,2):
+for i in range(0,10,2):
      
      print( i,)
 
 ""
+i=1
 
-for i in range(0,21):
+while i < 20:
+     print(i)
+     i=i+1
 
-    print(i)
+result=0
+i=0
+while i <=5:
+      result=result + i
+      i=i+1
 
-""
+      print(result)
 
-for i in range(0,6):
+      
 
-    print(i)
 
-    sum =0
-
-for i in range(0,6):
-
-     sum += i
-
-     print(sum)
+     
