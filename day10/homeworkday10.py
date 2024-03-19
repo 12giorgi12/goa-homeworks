@@ -1,32 +1,32 @@
-#homework number 1 Make a list of programming languages, enter 5 programming languages. Daprin
-
-# HM_list = ["C++", "python", "html", "ca", "Javascript"]
-
-# print(HM_list)
-
-# print(HM_list[4])
-
-# homework number 2
-
-# IM_list2 = [5, "i am string", 2.5, True]
-
-# print(IM_list2[0])
-
-# print(IM_list2[1])
-
-# print(IM_list2[2])
-
-# print(IM_list2[3])
 
 
-# HM_list3=[]
+HM_list = ["C++", "python", "html", "ca", "Javascript"]
 
-# for i in range (0,21):
+print(HM_list)
 
-#     if i % 4==0 and i != 0:
-#         HM_list3.append(i) 
+print(HM_list[4])
 
-# print(max(HM_list3))
+
+
+IM_list2 = [5, "i am string", 2.5, True]
+
+print(IM_list2[0])
+
+print(IM_list2[1])
+
+print(IM_list2[2])
+
+print(IM_list2[3])
+
+
+HM_list3=[]
+
+for i in range (0,21):
+
+    if i % 4==0 and i != 0:
+        HM_list3.append(i) 
+
+print(max(HM_list3))
 
 
 
